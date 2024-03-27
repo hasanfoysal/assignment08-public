@@ -1,0 +1,80 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "image": "public/istockphoto-1481862788-170667a.webp",
+      "review": "A hilarious and thought-provoking science fiction comedy that will leave you wanting more.",
+      "totalPages": 192,
+      "rating": 4.5,
+      "category": "Science Fiction",
+      "tags": ["Humor", "Satire", "Space Adventure"],
+      "publisher": "Pan Books",
+      "yearOfPublishing": 1979
+    },
+    {
+      "bookId": 2,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "public/photo-1497633762265-9d179a990aa6.avif",
+      "review": "A witty and timeless social commentary that explores love, class, and societal expectations.",
+      "totalPages": 224,
+      "rating": 4.8,
+      "category": "Romance",
+      "tags": ["Classic", "Social Commentary", "Witty Dialogue"],
+      "publisher": "Penguin Classics",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": 3,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "public/photo-1519682337058-a94d519337bc.avif",
+      "review": "A powerful and moving story about racial injustice in the American South.",
+      "totalPages": 324,
+      "rating": 5,
+      "category": "Historical Fiction",
+      "tags": ["Coming-of-Age", "Social Justice", "Prejudice"],
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "image": "public/photo-1531988042231-d39a9cc12a9a.avif",
+      "review": "An epic fantasy adventure that will transport you to a world of magic and wonder.",
+      "totalPages": 1136,
+      "rating": 4.9,
+      "category": "Fantasy",
+      "tags": ["Epic", "Adventure", "Worldbuilding"],
+      "publisher": "Allen & Unwin",
+      "yearOfPublishing": 1954
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "public/photo-1591951425328-48c1fe7179cd.avif",
+      "review": "A poignant and controversial coming-of-age story that explores themes of alienation and rebellion.",
+      "totalPages": 224,
+      "rating": 4.2,
+      "category": "Coming-of-Age",
+      "tags": ["Alienation", "Rebellion", "Teenage Angst"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 6,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "public/photo-1497633762265-9d179a990aa6.avif",
+      "review": "A witty and timeless social commentary that explores love, class, and societal expectations.",
+      "totalPages": 224,
+      "rating": 4.8,
+      "category": "Romance",
+      "tags": ["Classic", "Social Commentary", "Witty Dialogue"],
+      "publisher": "Penguin Classics",
+      "yearOfPublishing": 1813
+    }
+  ]
